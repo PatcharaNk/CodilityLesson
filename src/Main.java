@@ -4,7 +4,7 @@ public class Main {
 	public static void main(String[] args) {
 		//test CyclicRotation
 		int[] A = new int[]{3, 8, 9, 7, 6};
-		int K = 5;
+		int K = 2;
 		//end
 		BinaryGap BinaryGapSolve  = new BinaryGap();
 		CyclicRotation CyclicRotationSolve = new CyclicRotation(); 
