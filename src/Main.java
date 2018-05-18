@@ -12,6 +12,5 @@ public class Main {
 		System.out.println(BinaryGapSolve.solution(561892));
 		System.out.println(Arrays.toString(CyclicRotationSolve.solution(A, K)));
 
-
 	}
 }
